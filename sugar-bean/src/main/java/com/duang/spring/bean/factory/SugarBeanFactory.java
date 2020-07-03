@@ -1,4 +1,4 @@
-package com.duang.spring.reprint.factory;
+package com.duang.spring.bean.factory;
 
 import java.util.List;
 
