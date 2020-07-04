@@ -15,4 +15,5 @@ public interface SugarBeanFactory {
 
     <T> List<T> getBeansByClass(Class<T> clazz);
 
+    boolean registerBean(String beanName, Object obj);
 }
